@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang=es>
 <head>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -32,17 +35,23 @@
   text-decoration: none;
   font-size: 18px;
   color: black;
-  display: block
+  display: block;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #myUL li a:hover:not(.header) {
   background-color: #eee;
 }
+
+/* my css */
+.tablon {
+  font-family: 'Montserrat', sans-serif;
+}
 </style>
 </head>
 <body>
 
-<h2>My Phonebook</h2>
+<h2 class="tablon">Tablón de anuncios</h2>
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Buscar..." title="Type in a name">
 
