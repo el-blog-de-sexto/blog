@@ -8,7 +8,7 @@ Información y créditos
 
 ### Información
 
-Este es un blog de una clase del CEIP Eduardo Ocón, manejado por [Izan](https://srizan.ml/) y escrito por todos los alumnos de la clase.
+Este es un blog de una clase del CEIP Eduardo Ocón, manejado por [Izan](https://srizan.ml/) y escrito por todos los alumnos de la clase (¡esperemos!).
 
 ### Créditos
 
