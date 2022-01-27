@@ -12,4 +12,5 @@ Este es un blog de una clase del CEIP Eduardo Ocón, manejado por [Izan](https:/
 
 ### Créditos
 
-Aquí no sé qué poner, ya que todavía nadie ha colaborado para escribir el blog.
+Yo (Sr Izan): [Tema 4 y 5 de lengua](https://elblogdesexto.ml/Apuntes-para-el-examen-del-tema-4-y-5-de-lengua/)  
+Toga Himiko: [Temas 4 y 5 de matemáticas](https://elblogdesexto.ml/Apuntes-para-el-examen-del-tema-4-y-5-de-mates/)  
