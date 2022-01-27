@@ -8,7 +8,7 @@ title: Apuntes para el examen del tema 4/5 de mates.
 Aquí están los apuntes que han hecho mis compañeros de clase para el examen del tema 4 y 5 de mates:
 
 - Toga Himiko:
-<iframe src="https://archivos.elblogdesexto.ml/apuntes/mates/tema5/zana.jpg" style="width:100%; height:500px;"></iframe>
+<img src="https://archivos.elblogdesexto.ml/apuntes/mates/tema5/zana.jpg">
 Puedes descargar el archivo de imagen <a href="https://archivos.elblogdesexto.ml/apuntes/mates/tema5/zana.jpg" download>aquí</a>.  
   
 Quieres aportar apuntes al blog o hacer tu rincón?  
