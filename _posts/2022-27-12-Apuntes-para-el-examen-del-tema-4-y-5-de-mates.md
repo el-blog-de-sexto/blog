@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apuntes para el examen del tema 4/5 de lengua.
+title: Apuntes para el examen del tema 4/5 de mates.
 ---
 
 # Hola!  
