@@ -9,7 +9,7 @@ Aquí están los apuntes que han hecho mis compañeros de clase para el examen d
 
 - Toga Himiko:
 <iframe src="https://archivos.elblogdesexto.ml/apuntes/mates/tema5/zana.png" style="width:100%; height:500px;"></iframe>
-Puedes descargar el archivo de imagen <a href="https://archivos.elblogdesexto.ml/apuntes/mates/tema5/zana.png" download>aquí</a>.  
+Puedes descargar el archivo de imagen <a href="https://archivos.elblogdesexto.ml/apuntes/mates/tema5/zana.jpg" download>aquí</a>.  
   
 Quieres aportar apuntes al blog o hacer tu rincón?  
 Bueno, pues estás de suerte porque, si colaboras, te ganarás un pequeño espacio en la página de colaboradores!  
