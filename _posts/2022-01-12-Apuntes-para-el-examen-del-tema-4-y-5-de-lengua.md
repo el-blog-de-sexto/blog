@@ -16,8 +16,8 @@ Y este del tema 5:
 Puedes descargar el archivo Word <a href="https://archivos.elblogdesexto.ml/apuntes/lengua/tema5/izan.docx" download>aquí</a>. 
 - ivannoah:
 Este es del tema 5:
-<img src="https://archivos.elblogdesexto.ml/apuntes/lenuga/tema5/ivan.jpg" style="width=50%; height:50%">
-<img src="https://archivos.elblogdesexto.ml/apuntes/lenuga/tema5/ivan2.jpg" style="width=50%; height:50%">
+<img src="https://archivos.elblogdesexto.ml/apuntes/lenuga/tema5/ivan1.jpg" style="width=50%; height:50%">  
+<img src="https://archivos.elblogdesexto.ml/apuntes/lenuga/tema5/ivan2.jpg" style="width=50%; height:50%">  
   
 Quieres aportar apuntes al blog o hacer tu rincón?  
 Bueno, pues estás de suerte porque, si colaboras, te ganarás un pequeño espacio en la página de colaboradores!  
