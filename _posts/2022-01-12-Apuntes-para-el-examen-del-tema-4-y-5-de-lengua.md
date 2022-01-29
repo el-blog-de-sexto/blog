@@ -8,12 +8,16 @@ title: Apuntes para el examen del tema 4/5 de lengua.
 Aquí están los apuntes que han sido aportados al blog para el examen del tema 4 y 5 de lengua:  
   
 - Izan Gil (yo):  
-Este es el del tema 4:  
+Este es del tema 4:  
 <iframe src="https://archivos.elblogdesexto.ml/apuntes/lengua/tema4/izan.pdf" style="width:100%; height:500px;"></iframe>
 Puedes descargar el archivo Word <a href="https://archivos.elblogdesexto.ml/apuntes/lengua/tema4/izan.docx" download>aquí</a>.  
-Y este es el tema 5:
+Y este del tema 5:
 <iframe src="https://archivos.elblogdesexto.ml/apuntes/lengua/tema5/izan.pdf" style="width:100%; height:500px;"></iframe>
 Puedes descargar el archivo Word <a href="https://archivos.elblogdesexto.ml/apuntes/lengua/tema5/izan.docx" download>aquí</a>. 
+- ivannoah:
+Este es del tema 5:
+<img src="https://archivos.elblogdesexto.ml/apuntes/lenuga/tema5/ivan.jpg" style="width=50%; height:50%">
+<img src="https://archivos.elblogdesexto.ml/apuntes/lenuga/tema5/ivan2.jpg" style="width=50%; height:50%">
   
 Quieres aportar apuntes al blog o hacer tu rincón?  
 Bueno, pues estás de suerte porque, si colaboras, te ganarás un pequeño espacio en la página de colaboradores!  
