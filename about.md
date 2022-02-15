@@ -12,5 +12,8 @@ Este es un blog de una clase del CEIP Eduardo Ocón, manejado por [Izan](https:/
 
 ### Créditos
 
-Yo (Sr Izan): [Tema 4 y 5 de lengua](https://elblogdesexto.ml/Apuntes-para-el-examen-del-tema-4-y-5-de-lengua/)  
-Toga Himiko: [Temas 4 y 5 de matemáticas](https://elblogdesexto.ml/Apuntes-para-el-examen-del-tema-4-y-5-de-mates/)  
+Yo (Sr Izan): [Temas 4 y 5 de lengua](https://elblogdesexto.ml/Apuntes-para-el-examen-del-tema-4-y-5-de-lengua/)  
+Toga Himiko: [Temas 4 y 5 de matemáticas](https://elblogdesexto.ml/Apuntes-para-el-examen-del-tema-4-y-5-de-mates/), [Tema 6 de mates](https://elblogdesexto.ml/Apuntes-tema-6-de-mates/), [Tema 6 de lengua](https://elblogdesexto.ml/Apuntes-tema-6-de-lengua/)  
+ivannoah: [Temas 4 y 5 de lengua](https://elblogdesexto.ml/Apuntes-para-el-examen-del-tema-4-y-5-de-lengua/)  
+MOR: [Tema 3 de lengua](https://elblogdesexto.ml/Apuntes-para-el-examen-del-tema-3-de-naturales/)  
+Mara: [Tema 3 de inglés](https://elblogdesexto.ml/Apuntes-para-el-examen-del-tema-3-de-ingles/)
