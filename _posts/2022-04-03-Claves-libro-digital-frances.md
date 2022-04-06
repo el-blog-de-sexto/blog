@@ -10,8 +10,4 @@ Estas son las claves del libro digital de francés para que todos los compañero
   
 Email: bsmart@srizan.ml  
 Contraseña: librodigitalfrances  
-APP Libro digital: <a href="https://my.bsmart.it">https://my.bsmart.it</a> 
-  
-# Cómo entrar en tablet/móvil:  
-(haciendo guía.)  
-  
+APP Libro digital: <a href="https://my.bsmart.it">https://my.bsmart.it</a>  
